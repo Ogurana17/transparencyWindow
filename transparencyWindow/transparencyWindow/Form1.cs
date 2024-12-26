@@ -431,7 +431,7 @@ namespace TransparencyWindow
 
             Button registerTaskButton = new Button()
             {
-                Text = "Register Task Scheduler",
+                Text = "Register",
                 Dock = DockStyle.Bottom
             };
 
@@ -442,7 +442,7 @@ namespace TransparencyWindow
 
             Button unregisterTaskButton = new Button()
             {
-                Text = "Unregister Task Scheduler",
+                Text = "Unregister",
                 Dock = DockStyle.Bottom
             };
 

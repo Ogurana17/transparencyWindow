@@ -8,3 +8,13 @@ C:\Users\PLM-141\source\repos\transparencyWindow\transparencyWindow\bin\Debug\tr
 C:\Users\PLM-141\source\repos\transparencyWindow\transparencyWindow\bin\Debug\transparencyWindow.pdb
 C:\Users\PLM-141\source\repos\transparencyWindow\transparencyWindow\obj\Debug\transparencyWindow.exe
 C:\Users\PLM-141\source\repos\transparencyWindow\transparencyWindow\obj\Debug\transparencyWindow.pdb
+C:\Users\PLM-141\OneDrive - プラチナ萬年筆株式会社\アプリ\source\repos\transparencyWindow\transparencyWindow\bin\Debug\transparencyWindow.exe.config
+C:\Users\PLM-141\OneDrive - プラチナ萬年筆株式会社\アプリ\source\repos\transparencyWindow\transparencyWindow\bin\Debug\transparencyWindow.exe
+C:\Users\PLM-141\OneDrive - プラチナ萬年筆株式会社\アプリ\source\repos\transparencyWindow\transparencyWindow\obj\Debug\transparencyWindow.csproj.AssemblyReference.cache
+C:\Users\PLM-141\OneDrive - プラチナ萬年筆株式会社\アプリ\source\repos\transparencyWindow\transparencyWindow\obj\Debug\TransparencyWindow.MainForm.resources
+C:\Users\PLM-141\OneDrive - プラチナ萬年筆株式会社\アプリ\source\repos\transparencyWindow\transparencyWindow\obj\Debug\transparencyWindow.Properties.Resources.resources
+C:\Users\PLM-141\OneDrive - プラチナ萬年筆株式会社\アプリ\source\repos\transparencyWindow\transparencyWindow\obj\Debug\transparencyWindow.csproj.GenerateResource.cache
+C:\Users\PLM-141\OneDrive - プラチナ萬年筆株式会社\アプリ\source\repos\transparencyWindow\transparencyWindow\obj\Debug\transparencyWindow.csproj.CoreCompileInputs.cache
+C:\Users\PLM-141\OneDrive - プラチナ萬年筆株式会社\アプリ\source\repos\transparencyWindow\transparencyWindow\obj\Debug\transparencyWindow.exe
+C:\Users\PLM-141\OneDrive - プラチナ萬年筆株式会社\アプリ\source\repos\transparencyWindow\transparencyWindow\obj\Debug\transparencyWindow.pdb
+C:\Users\PLM-141\OneDrive - プラチナ萬年筆株式会社\アプリ\source\repos\transparencyWindow\transparencyWindow\bin\Debug\transparencyWindow.pdb
